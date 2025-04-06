@@ -1,0 +1,11 @@
+Ten plik to placeholder dla katalogu images.
+
+Aby strona działała poprawnie, należy dodać następujące obrazy:
+1. cookie-logo.png - logo w kształcie ciastka
+2. cookie-run-history.jpg - obraz przedstawiający historię gry
+3. cookie1.jpg, cookie2.jpg, cookie3.jpg, cookie4.jpg - obrazy do galerii
+
+Opcjonalnie możesz dodać również:
+4. tip-icon1.png, tip-icon2.png, tip-icon3.png, tip-icon4.png, tip-icon5.png - ikony do sekcji wskazówek
+
+Obrazy można pobrać z oficjalnych źródeł Cookie Run lub zastąpić własnymi. 
